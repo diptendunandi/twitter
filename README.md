@@ -1,4 +1,4 @@
-# Live Hosting Link
+# Live Hosted Link
 https://twitter-clone-ca1e6.web.app/
 
 # Getting Started with Create React App
